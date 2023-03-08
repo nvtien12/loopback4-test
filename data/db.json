@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Product": 7
+  },
+  "models": {
+    "Product": {
+      "1": "{\"title\":\"Honda Civic Type R\",\"price\":\"Giá từ: 2.399.000.000 vnđ\",\"description\":\"BỨC TỐC VƯỢT ĐỈNH.\",\"image\":\"/assets/civic type R.png\",\"to\":\"./following/civic\",\"backgroundImg\":\"./assets/background-full.jpg\",\"rating\":{\"rate\":2.9,\"count\":500},\"ID\":1}",
+      "2": "{\"title\":\"Honda Accord\",\"price\":\"Giá từ: 1.319.000.000 vnđ\",\"description\":\"GIÁC QUAN KHAI PHÁ KHÍ CHẤT DẪN ĐẦU.\",\"image\":\"/assets/accord.png\",\"to\":\"./following/accord\",\"backgroundImg\":\"./assets/background-full.jpg\",\"rating\":{\"rate\":3.9,\"count\":500},\"ID\":2}",
+      "3": "{\"title\":\"Honda Civic \",\"price\":\"Giá từ: 730.000.000 vnđ\",\"description\":\"KIẾN TẠO CHUẨN MỰC HOÀN HẢO.\",\"image\":\"/assets/civic.png\",\"to\":\"./following/civic\",\"backgroundImg\":\"./assets/background-full.jpg\",\"rating\":{\"rate\":4.1,\"count\":400},\"ID\":3}",
+      "4": "{\"title\":\"Honda Crv\",\"price\":\"Giá từ: 998.000.000 vnđ\",\"description\":\"KHAI PHÁ GIÁC QUAN THỨ 6.\",\"image\":\"/assets/crv.png\",\"to\":\"./following/crv\",\"backgroundImg\":\"./assets/crv/wake-up-senses.jpg\",\"rating\":{\"rate\":4.7,\"count\":500},\"ID\":4}",
+      "5": "{\"title\":\"Honda Hrv\",\"price\":\"Giá từ: 820.000.000 vnđ\",\"description\":\"SẴN SÀNG CHO MỌI BẤT NGỜ.\",\"image\":\"/assets/hrv.png\",\"to\":\"./following/hrv\",\"backgroundImg\":\"./assets/crv/wake-up-senses.jpg\",\"rating\":{\"rate\":2.1,\"count\":430},\"ID\":5}",
+      "6": "{\"title\":\"Honda City\",\"price\":\"Giá từ: 529.000.000 vnđ\",\"description\":\"MẠNH MẼ TRẢI LỐI THÀNH CÔNG.\",\"image\":\"/assets/city.png\",\"to\":\"./following/city\",\"backgroundImg\":\"./assets/crv/wake-up-senses.jpg\",\"rating\":{\"rate\":4.6,\"count\":400},\"ID\":6}"
+    }
+  }
+}
